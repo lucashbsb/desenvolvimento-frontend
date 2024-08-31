@@ -1,0 +1,22 @@
+{
+  "scooby": {
+    "title": "Scooby Doo",
+    "description": "Scooby-Doo é um cão da raça Dogue Alemão, conhecido por ser medroso e atrapalhado, mas extremamente leal aos seus amigos. Ele é o personagem principal da franquia de animação \"Scooby-Doo\", onde, junto com seus amigos da Mistério S/A, resolve mistérios envolvendo criaturas aparentemente sobrenaturais. Scooby adora comer, especialmente biscoitos Scooby, e costuma se meter em confusões enquanto tenta fugir do perigo. Seu lema é \"Scooby-Dooby-Doo!\"."
+  },
+  "salsicha": {
+    "title": "Salsicha Rogers",
+    "description": "Salsicha é o melhor amigo de Scooby-Doo e seu parceiro inseparável. Ele é conhecido por ser extremamente medroso e ter um apetite insaciável, sempre pensando em comida, especialmente sanduíches gigantes. Apesar de seu medo constante, ele sempre acaba envolvido nas investigações de mistérios junto com Scooby. Salsicha tem um estilo desleixado, com uma camiseta verde larga e calças marrons."
+  },
+  "fred": {
+    "title": "Fred Jones",
+    "description": "Fred é o líder do grupo Mistério S/A. Ele é corajoso, inteligente e adora criar armadilhas para capturar os vilões. Fred é sempre otimista e confiante, desempenhando o papel de estrategista durante as investigações. Ele é conhecido por seu visual clássico com uma camisa branca, calça azul e um lenço laranja no pescoço."
+  },
+  "daphne": {
+    "title": "Daphne Blake",
+    "description": "Daphne é a fashionista do grupo, conhecida por seu estilo elegante e por sua natureza curiosa e aventureira. Apesar de ser frequentemente retratada como uma \"donzela em perigo\", Daphne é determinada e não tem medo de se arriscar para resolver um mistério. Ela usa um vestido roxo, com uma faixa verde no pescoço, e é muitas vezes associada a habilidades de investigação intuitiva."
+  },
+  "velma": {
+    "title": "Velma Dinkley",
+    "description": "Velma é a mente brilhante do grupo, conhecida por sua inteligência, raciocínio lógico e vasto conhecimento em vários assuntos. Ela é quem geralmente junta as pistas e resolve os mistérios. Velma usa óculos, o que se torna uma característica marcante, especialmente quando ela os perde. Seu visual inclui uma blusa laranja, saia vermelha e meias altas, e ela é considerada a personagem mais racional e prática da equipe."
+  }
+}

@@ -1,0 +1,56 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fafafa; /* Azul claro */
+    color: #1a1a1a; /* Marrom */
+}
+
+.navbar {
+    background: #bb5c37 !important;
+    padding: 20px!important;
+
+}
+
+.nav-link {
+    color: white!important;
+}
+
+.banner {
+    background: #4b0055;
+    padding: 50px 0;
+}
+
+
+footer {
+    background: #4b0055;
+}
+
+.card {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card:hover {
+    margin-top: -5px !important;
+    color: #4b0055!important;
+}
+
+.card-img-top {
+    width: 200px;
+    height: 400px;
+}
+
+.personagem-wrapper {
+    margin-top: 20px;
+}
+
+.btn-fechar {
+    background: #bb5c37!important;
+    color: white!important;
+}
