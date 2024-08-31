@@ -15,7 +15,7 @@ function atualizaModal(json) {
 }
 
 function abrirModal(personagem) {
-    fetch('/assets/mocks/personagens.json')
+    fetch('./assets/mocks/personagens.json')
         .then(res => res.json())
         .then((json) => {
             console.log(json[personagem]);
